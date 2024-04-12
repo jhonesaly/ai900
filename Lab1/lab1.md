@@ -108,3 +108,22 @@ Passo a passo para utilizar o Machine Learning Automatizado no Microsoft Azure:
    - Exclua o serviço da Web criado para evitar o uso desnecessário do Azure.
    - Para excluir o espaço de trabalho Azure Machine Learning e os recursos associados, siga as instruções de exclusão no portal Azure.
 
+## Resultados
+
+O resultado do teste no endpoint para os parâmetros indicados retornou o seguinte:
+
+```json
+{
+  "Results": [
+    364.78935594629985
+  ]
+}
+```
+
+As métricas do melhor resultado geradas pelo job foram:
+
+![Resultado 1](lab1-resultado-1.png)
+
+Os resultados do "Data transformation" gerados pelo job foram:
+
+![Resultado 2](lab1-resultado-2.png)
