@@ -46,4 +46,12 @@ Através deste recurso a Inteligência Artificial extrai o texto que conseguir i
 
 ## Considerações Finais
 
-Tais recursos trazem inúmeras soluções para o dia a dia, o recurso de detecção e descrição da imagem enriquece ainda mais sistemas de segurança, os quais identificarão as faças de quem passar a frente das câmeras, assim como reconhecer rostos ja conhecidos.O recurso de estração de texto ajudará inumeras empresas a gerenciar seus arquivos antigos, assim como escanear e guardar dados de notas, facilitando assim a manutenção dos arquivos e o tempo para ter aesso aos mesmos.
+Os recursos oferecidos pela Microsoft Azure proporcionam uma variedade de soluções para os desafios do cotidiano.
+
+A detecção de imagens, quando aplicada de forma inteligente, pode desempenhar um papel crucial na promoção da acessibilidade. Por exemplo, sistemas de detecção de imagem podem ser utilizados para auxiliar pessoas com deficiência visual, fornecendo descrições detalhadas do ambiente ao seu redor.
+
+A funcionalidade de detecção de face pode oferece uma camada adicional de segurança aos sistemas, permitindo a identificação de indivíduos diante das câmeras e o reconhecimento de rostos previamente registrados.
+
+Além disso, a capacidade de extração de texto possibilita que empresas gerenciem de forma eficiente seus arquivos antigos, digitalizando e armazenando dados de notas, simplificando assim a manutenção e o acesso aos documentos.
+
+Essas ferramentas representam avanços significativos na otimização de processos e na agilidade operacional.
