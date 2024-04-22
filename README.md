@@ -4,3 +4,4 @@ Repositório com as atividades realziadas no curso preparatório para certifica�
 
 - Lab1: Trabalhando com Machine Learning na Prática no Azure ML.
 - Lab2: Reconhecimento Facial e transformação de imagens em Dados no Azure ML.
+- Lab3: Análise de Sentimentos com Language Studio no Azure ML.

@@ -1,4 +1,4 @@
-# Análise de Sentimentos com Language Studio da Microsoft Azure
+# Análise de Sentimentos com Language Studio no Azure ML
 
 ## Analyze sentiment and mine opinions
 
